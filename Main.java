@@ -1,9 +1,7 @@
 //*************************************************************************
-//M5-Food.java
+//Food.java
 //Date: 02/13/2023
 //Author: David Taylor
-//Class: CIT 149–19Z1–78178
-//Instructor: Krishna Nandanoor
 //Purpose: Develop a Java application where starting with that day of the week, display
 // a schedule for the food trucks and events for the remainder of the week (through Saturday)
 // using switch statements
